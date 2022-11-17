@@ -1,3 +1,3 @@
 Sample
 
-Starting with Githubß
+Starting with Github
